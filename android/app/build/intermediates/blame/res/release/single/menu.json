@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/menu/search_item.xml",
+        "source": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/src/main/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/menu/stub.xml",
+        "source": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/src/main/res/menu/stub.xml"
+    }
+]

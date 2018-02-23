@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/5789cbe2fbb639c9d522b7de927a4238/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/xml/provider_paths.xml",
+        "source": "/Users/boris/Documents/Taimi/node_modules/react-native-image-picker/android/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    }
+]

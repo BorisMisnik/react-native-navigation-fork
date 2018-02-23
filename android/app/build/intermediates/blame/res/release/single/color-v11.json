@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/275c353db38580bf962721ce6290f313/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/275c353db38580bf962721ce6290f313/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

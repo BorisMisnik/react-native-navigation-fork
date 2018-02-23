@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e3291493b191c71d60ed90be6fe4ea6f/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/a9e5fbea17329aa3aed98a01f66c3068/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/item_background.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/b81e280ac77ff6d2aeb386e1fd659ecd/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/a9e5fbea17329aa3aed98a01f66c3068/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/a9e5fbea17329aa3aed98a01f66c3068/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e3291493b191c71d60ed90be6fe4ea6f/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/a9e5fbea17329aa3aed98a01f66c3068/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e3291493b191c71d60ed90be6fe4ea6f/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e3291493b191c71d60ed90be6fe4ea6f/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

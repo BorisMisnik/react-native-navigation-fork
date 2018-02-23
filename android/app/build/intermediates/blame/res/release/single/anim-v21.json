@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/9c8543baa3797c77100062bdb380e927/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/boris/Documents/Taimi/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/boris/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/9c8543baa3797c77100062bdb380e927/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
